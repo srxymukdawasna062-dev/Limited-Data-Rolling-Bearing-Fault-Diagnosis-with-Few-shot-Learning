@@ -1,4 +1,4 @@
-# Limited Data Rolling Bearing Fault Diagnosis with Few-shot Learning
+Boy# Limited Data Rolling Bearing Fault Diagnosis with Few-shot Learning
 
  For the paper "Limited Data Rolling Bearing Fault Diagnosis with Few-shot Learning", as the mekhub.cn website needs to shut down for some reason, the origin code link (https://mekhub.cn/as/fault_diagnosis_with_few-shot_learning/) can't be open anymore. This is the alternate code repository of the paper. 
 # [[Paper]](https://ieeexplore.ieee.org/abstract/document/8793060)
